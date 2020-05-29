@@ -6,4 +6,4 @@ this help a backend to see API or Data of a site
 - requests
 - Python
 
-To learn more, write me @juanjosevega99(juanjosevega99.github.io/) everywhere
+To learn more, write me [@juanjosevega99](https://juanjosevega99.github.io/) everywhere
